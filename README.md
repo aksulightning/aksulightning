@@ -2,7 +2,7 @@
 - 👀 I’m interested in own projects.
 - 🌱 I’m currently interested to learn "How to code in Javascript".
 - 💞️ I’m looking to collaborate on "I don't know".
-- 📫 How to reach me: via Github or Discord.
+- 📫 How to reach me: Twitter PMs or Github.
 - HTML, CSS
 
 <!---
