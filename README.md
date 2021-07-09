@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on "I don't know".
 - 📫 How to reach me: Twitter PMs or Github.
 - HTML, CSS
+- Script: C#, Lua
 
 <!---
 aksulightning/aksulightning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
