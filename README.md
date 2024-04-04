@@ -1,5 +1,4 @@
 - I'm leaving Github, due to Github's technical changes.
-- All public repositories are archived and set to private, except forks.
 
 <!---
 Archived:
