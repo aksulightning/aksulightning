@@ -1,4 +1,4 @@
-- I'm leaving Github, due to Github's techical changes.
+- I'm leaving Github, due to Github's technical changes.
 
 <!---
 Archived:
