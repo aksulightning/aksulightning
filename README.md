@@ -1,3 +1,4 @@
+```
      _    ___   ____  _     ___  ____  
     / \  |_ _| / ___|| |   / _ \|  _ \ 
    / _ \  | |  \___ \| |  | | | | |_) |
@@ -7,3 +8,4 @@
         ⚠  AI SLOP DETECTED  ⚠
 
 Warning: This repository may contain AI-generated content.
+```
