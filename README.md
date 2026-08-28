@@ -7,5 +7,5 @@
 
         ⚠  AI SLOP DETECTED  ⚠
 
-Warning: This repository may contain AI-generated content.
+Warning: My GitHub repos may contain AI-generated content.
 ```
