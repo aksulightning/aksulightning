@@ -1,11 +1,5 @@
 ```
-     _    ___   ____  _     ___  ____  
-    / \  |_ _| / ___|| |   / _ \|  _ \ 
-   / _ \  | |  \___ \| |  | | | | |_) |
-  / ___ \ | |   ___) | |__| |_| |  __/ 
- /_/   \_\___| |____/|_____\___/|_|    
+Some repositories may have been created with the help of artificial intelligence, which some people might call "AI slop".
 
-        ⚠  AI SLOP DETECTED  ⚠
-
-Warning: My GitHub repos may contain AI-generated content.
+In my opinion, artificial intelligence is for writing code.
 ```
